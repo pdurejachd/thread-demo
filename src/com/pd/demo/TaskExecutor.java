@@ -33,7 +33,7 @@ public class TaskExecutor {
 		return taskList;
 	}
 	
-	public synchronized void processTask() {
+	public  void processTask() {
 		if(getCount() < 20) {
 		Task task = taskList.get(getCount());
 		if(task.getStatus().equalsIgnoreCase("NEW")) {
@@ -41,8 +41,8 @@ public class TaskExecutor {
 			System.out.println(Thread.currentThread().getName()+"   "+task.getTaskName()+" "+task.getStatus());
 			
 			try {
-				int randomDelay = (int)(1000.0 * Math.random());
-				Thread.sleep(randomDelay);
+				//int randomDelay = (int)(1000.0 * Math.random());
+				Thread.sleep(1000);
 			} catch (InterruptedException e) {
 				e.printStackTrace();
 			}
