@@ -1,0 +1,158 @@
+================================================================================
+Initializing Task list...
+================================================================================
+TASK-0 CREATED
+TASK-1 CREATED
+TASK-2 CREATED
+TASK-3 CREATED
+TASK-4 CREATED
+TASK-5 CREATED
+TASK-6 CREATED
+TASK-7 CREATED
+TASK-8 CREATED
+TASK-9 CREATED
+TASK-10 CREATED
+TASK-11 CREATED
+TASK-12 CREATED
+TASK-13 CREATED
+TASK-14 CREATED
+TASK-15 CREATED
+TASK-16 CREATED
+TASK-17 CREATED
+TASK-18 CREATED
+TASK-19 CREATED
+======================================RUN-1==========================================
+Thread-0   TASK-0 STARTED
+Thread-0   TASK-0 COMPLETED
+Thread-0   TASK-1 STARTED
+Thread-0   TASK-1 COMPLETED
+Thread-0   TASK-2 STARTED
+Thread-0   TASK-2 COMPLETED
+Thread-0   TASK-3 STARTED
+Thread-0   TASK-3 COMPLETED
+Thread-1   TASK-4 STARTED
+Thread-1   TASK-4 COMPLETED
+Thread-1   TASK-5 STARTED
+Thread-1   TASK-5 COMPLETED
+Thread-1   TASK-6 STARTED
+Thread-1   TASK-6 COMPLETED
+Thread-1   TASK-7 STARTED
+Thread-1   TASK-7 COMPLETED
+Thread-1   TASK-8 STARTED
+Thread-1   TASK-8 COMPLETED
+Thread-1   TASK-9 STARTED
+Thread-1   TASK-9 COMPLETED
+Thread-1   TASK-10 STARTED
+Thread-1   TASK-10 COMPLETED
+Thread-1   TASK-11 STARTED
+Thread-1   TASK-11 COMPLETED
+Thread-1   TASK-12 STARTED
+Thread-1   TASK-12 COMPLETED
+Thread-1   TASK-13 STARTED
+Thread-1   TASK-13 COMPLETED
+Thread-1   TASK-14 STARTED
+Thread-1   TASK-14 COMPLETED
+Thread-1   TASK-15 STARTED
+Thread-1   TASK-15 COMPLETED
+Thread-1   TASK-16 STARTED
+Thread-1   TASK-16 COMPLETED
+Thread-1   TASK-17 STARTED
+Thread-1   TASK-17 COMPLETED
+Thread-1   TASK-18 STARTED
+Thread-1   TASK-18 COMPLETED
+Thread-1   TASK-19 STARTED
+Thread-1   TASK-19 COMPLETED
+================================================================================
+TOTAL TIME(in seconds): 11
+ALL TASKS COMPLETED...EXITING APPLICATION... 
+======================================= RUN 2 ==================================
+
+Thread-0   TASK-0 STARTED
+Thread-0   TASK-0 COMPLETED
+Thread-1   TASK-1 STARTED
+Thread-1   TASK-1 COMPLETED
+Thread-0   TASK-2 STARTED
+Thread-0   TASK-2 COMPLETED
+Thread-0   TASK-3 STARTED
+Thread-0   TASK-3 COMPLETED
+Thread-1   TASK-4 STARTED
+Thread-1   TASK-4 COMPLETED
+Thread-0   TASK-5 STARTED
+Thread-0   TASK-5 COMPLETED
+Thread-0   TASK-6 STARTED
+Thread-0   TASK-6 COMPLETED
+Thread-0   TASK-7 STARTED
+Thread-0   TASK-7 COMPLETED
+Thread-0   TASK-8 STARTED
+Thread-0   TASK-8 COMPLETED
+Thread-0   TASK-9 STARTED
+Thread-0   TASK-9 COMPLETED
+Thread-0   TASK-10 STARTED
+Thread-0   TASK-10 COMPLETED
+Thread-0   TASK-11 STARTED
+Thread-0   TASK-11 COMPLETED
+Thread-0   TASK-12 STARTED
+Thread-0   TASK-12 COMPLETED
+Thread-0   TASK-13 STARTED
+Thread-0   TASK-13 COMPLETED
+Thread-0   TASK-14 STARTED
+Thread-0   TASK-14 COMPLETED
+Thread-1   TASK-15 STARTED
+Thread-1   TASK-15 COMPLETED
+Thread-1   TASK-16 STARTED
+Thread-1   TASK-16 COMPLETED
+Thread-1   TASK-17 STARTED
+Thread-1   TASK-17 COMPLETED
+Thread-1   TASK-18 STARTED
+Thread-1   TASK-18 COMPLETED
+Thread-1   TASK-19 STARTED
+Thread-1   TASK-19 COMPLETED
+================================================================================
+TOTAL TIME(in seconds): 10
+ALL TASKS COMPLETED...EXITING APPLICATION... 
+
+============================================================ RUN 3 =================================================================
+
+Thread-0   TASK-0 STARTED
+Thread-0   TASK-0 COMPLETED
+Thread-1   TASK-1 STARTED
+Thread-1   TASK-1 COMPLETED
+Thread-1   TASK-2 STARTED
+Thread-1   TASK-2 COMPLETED
+Thread-1   TASK-3 STARTED
+Thread-1   TASK-3 COMPLETED
+Thread-1   TASK-4 STARTED
+Thread-1   TASK-4 COMPLETED
+Thread-1   TASK-5 STARTED
+Thread-1   TASK-5 COMPLETED
+Thread-0   TASK-6 STARTED
+Thread-0   TASK-6 COMPLETED
+Thread-0   TASK-7 STARTED
+Thread-0   TASK-7 COMPLETED
+Thread-0   TASK-8 STARTED
+Thread-0   TASK-8 COMPLETED
+Thread-1   TASK-9 STARTED
+Thread-1   TASK-9 COMPLETED
+Thread-0   TASK-10 STARTED
+Thread-0   TASK-10 COMPLETED
+Thread-1   TASK-11 STARTED
+Thread-1   TASK-11 COMPLETED
+Thread-0   TASK-12 STARTED
+Thread-0   TASK-12 COMPLETED
+Thread-0   TASK-13 STARTED
+Thread-0   TASK-13 COMPLETED
+Thread-0   TASK-14 STARTED
+Thread-0   TASK-14 COMPLETED
+Thread-0   TASK-15 STARTED
+Thread-0   TASK-15 COMPLETED
+Thread-0   TASK-16 STARTED
+Thread-0   TASK-16 COMPLETED
+Thread-0   TASK-17 STARTED
+Thread-0   TASK-17 COMPLETED
+Thread-0   TASK-18 STARTED
+Thread-0   TASK-18 COMPLETED
+Thread-0   TASK-19 STARTED
+Thread-0   TASK-19 COMPLETED
+================================================================================
+TOTAL TIME(in seconds): 8
+ALL TASKS COMPLETED...EXITING APPLICATION... 
